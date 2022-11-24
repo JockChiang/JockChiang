@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JockChiang&theme=radical" />
-![Jock Chiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JockChiang&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JockChiang)
+<img src="https://github-readme-stats.vercel.app/api?username=JockChiang&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JockChiang" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JockChiang&layout=compact" />
-![Jock Chiang's github activity graph](https://activity-graph.herokuapp.com/graph?username=JockChiang&theme=dracula)
+<img  src="https://activity-graph.herokuapp.com/graph?username=JockChiang&theme=dracula" />
 <img  src="https://activity-graph.herokuapp.com/graph?username=JockChiang&theme=minimal" />
