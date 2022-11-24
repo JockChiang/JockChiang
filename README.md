@@ -14,10 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JockChiang&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api?username=JockChiang&show_icons=true" />
+<figure class="half">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JockChiang&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JockChiang&show_icons=true" />
+</figure>
+<center>
+    <img  src="https://activity-graph.herokuapp.com/graph?username=JockChiang&theme=dracula" />
+</center>
+<center>
+    <img  src="https://activity-graph.herokuapp.com/graph?username=JockChiang&theme=minimal" />
+</center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JockChiang" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JockChiang&layout=compact" />
-<img  src="https://activity-graph.herokuapp.com/graph?username=JockChiang&theme=dracula" />
-<img  src="https://activity-graph.herokuapp.com/graph?username=JockChiang&theme=minimal" />
